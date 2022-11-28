@@ -1,0 +1,17 @@
+.titulo {
+    color: green;
+    text-align: center;
+}
+
+.meuDados {
+    border-style: solid;
+    border-radius: 2px;
+    border-color: black;
+    background-color: #4f81bc;
+    color: white;
+    text-align: center;
+}
+
+.paragrafoTesteSoma {
+    color: white;
+}
